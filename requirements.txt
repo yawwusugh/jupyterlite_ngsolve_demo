@@ -1,7 +1,7 @@
 # Core modules (mandatory)
 jupyterlite-core==0.4.2
 jupyterlab~=4.2.5
-notebook~=7.2.2
+# notebook~=7.2.2
 
 
 # Python kernel (optional)
@@ -42,6 +42,9 @@ ipympl>=0.8.2
 # Python: plotting libraries (optional)
 #plotly>=5,<6
 #bqplot
+
+# Others
+prettytable
 
 widgetsnbextension==4.0.13
 webgui_jupyter_widgets==0.2.37
