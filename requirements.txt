@@ -44,7 +44,7 @@ ipympl>=0.8.2
 #bqplot
 
 # Others
-prettytable
+PrettyTable
 
 widgetsnbextension==4.0.13
 webgui_jupyter_widgets==0.2.37
